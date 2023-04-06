@@ -1,12 +1,13 @@
 //+------------------------------------------------------------------+
-//|                                        Algo Builder.mq4 |
-//|                                           Copyright 2022,Oluyemi Sodipo |
-//|                                             https://www.jarvistrade.io |
+//|                                                   MT4 Account Manager.mq4 |
+//|                                          Copyright 2021, Perpetual Vincent |
+//|                                               http://mql5.com|
 //+------------------------------------------------------------------+
-#property copyright "Copyright 2021,www.javistrade.io"
-#property link      "https://www.jarvistrade.io"
+#property copyright "Copyright 2021, Perpetual Vincent"
+#property link      "http://mql5.com"
 #property version   "1.00"
-#property strict
+#property  strict
+
 #include <UniversalIndicator.mqh>
 
 CUniversalIndicator Ind01;
